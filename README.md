@@ -1,4 +1,4 @@
-# Unsupervised understanding of the fine structure of interest rates: a Wasserstein barycenter approach
+# Understanding the complexities of the fine structure of interest rates: a Wasserstein barycenter learning approach
 
 by
 Carlo Mari,
